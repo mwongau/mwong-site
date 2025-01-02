@@ -12,5 +12,5 @@ function next() {
 
 <button onclick={next} class="m-2 p-1 font-bold bg-blue-200">Next photo</button>
 <p class="my-2 font-bold">{desc[count]}</p>
-<img src="{images[count]}" alt="image" />
+<img src="{images[count]}" alt="photo" />
 
