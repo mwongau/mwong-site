@@ -1,7 +1,7 @@
 <h1 class="text-3xl font-bold my-3 text-purple-900">Home</h1>
 
 <div>
-<p>Welcome to the personal site of M Wong. I am a researcher in computer vision and machine 
+<p>Welcome to the personal site of M. Wong. I am a researcher in computer vision and machine 
 learning with Ph.D in Computer Science, M.Sc & B.Sc(Hons.) in Electrical and Electronic 
 Engineering. I am also interested in web app development. This site is built by using 
 SvelteKit, Svelte 5, Javascript, HTML and Tailwind CSS. This site is hosted by GitHub Pages.</p>	
