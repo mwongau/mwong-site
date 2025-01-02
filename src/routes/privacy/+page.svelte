@@ -1,4 +1,4 @@
-<h1 class="text-3xl font-bold my-3 text-purple-900">Privacy policy</h1>
+<h1 class="text-2xl font-bold my-3 text-purple-900">Privacy policy</h1>
 
 <h3 class="my-2 font-bold text-xl">My contact</h3>
 	<p>Email: mwong[at]mwongsite.com, replace [at] by @ </p>

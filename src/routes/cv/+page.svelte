@@ -1,4 +1,4 @@
-<h1 class="text-3xl font-bold my-3 text-purple-900">CV</h1>
+<h1 class="text-2xl font-bold my-3 text-purple-900">CV</h1>
 <div>
 	<h3 class="my-2 font-bold text-xl">Academic degrees</h3>
 	<ul>
