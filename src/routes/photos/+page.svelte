@@ -1,5 +1,5 @@
 <script>
-const images = ["/sv5site/acu1.jpg", "/sv5site/uts5.jpg", "/sv5site/hps1.jpg"]
+const images = ["/mwong-site/acu1.jpg", "/mwong-site/uts5.jpg", "/mwong-site/hps1.jpg"]
 const desc = [ "Australian Catholic University, Strathfield Campus, NSW, Australia",
 	           "University of Technology Sydney, Building 5",
                "Homebush Public School, Homebush, NSW, Australia"]
